@@ -1,5 +1,5 @@
-img{ 
-  width: 30%;
+.hello img{ 
+  width: 100%;
   height: auto;
   float: left;
   margin-right: 20px;
@@ -10,6 +10,7 @@ img{
   background-color: rgb(245, 193, 21);
 }
 .hello h1{
+  font-family:Georgia ;
   text-align: right;
   padding-right: 10px;
 }
@@ -28,6 +29,6 @@ img{
   padding-right: 10px;
 }
 
-.two{
+.about img{
   float: right;
 }
