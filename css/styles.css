@@ -1,0 +1,29 @@
+img{ 
+  width: 30%;
+  height: auto;
+  float: left;
+  margin-right: 20px;
+
+}
+
+.hello{
+  background-color: rgb(245, 193, 21);
+}
+.hello h1{
+  text-align: right;
+  padding-right: 10px;
+}
+
+.hello h3{
+ font-family: Helvetica;
+ text-align: right;
+ padding-right: 10px;
+ font-style:oblique;
+}
+
+
+.hello p {
+  font-size:larger;
+  text-align: right;
+  padding-right: 10px;
+}
