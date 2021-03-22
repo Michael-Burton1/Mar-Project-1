@@ -33,23 +33,32 @@
 }
 .about{
   background-color: rgb(245, 193, 21);
-  padding-left:10%;
+  padding-left:5%;
   border-bottom: solid white;
 }
 .about h1{
   font-family:Georgia;
+  padding-top:20px;
+  
+  
 }
-.about h1{
-  font-family: Helvetica;
-}
+
 .about img{
   float: right;
+}
+.about p {
+  font-size:larger;
+  text-align: right;
+  padding-right: 10px;
 }
 .digtitle{
   background-color: rgb(245, 193, 21);
   font-family:Georgia;
   border-bottom: solid black;
   margin-bottom: 0%;
+  padding-top:20px;
+  padding-bottom: 0px;
+  padding-left:5%;
 }
 .dig{
   background: url('../img/sunset2.jpg');
@@ -57,6 +66,13 @@
   background-repeat: no-repeat;
   width: 100%;
   height: 340px;
-  
+  Padding-left:5%;
+  border-bottom: solid black;
+  margin-bottom: 0%;
+}
 
-  
+.dig ul {
+  font-size:larger;
+  text-align: left;
+  padding-right: 10px;
+} 
