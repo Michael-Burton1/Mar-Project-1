@@ -1,3 +1,8 @@
+.nav{
+  position: absolute;
+    top: 50px;
+    right: 0px;
+}
 .hello img{ 
   width: 100%;
   height: auto;
@@ -17,12 +22,12 @@
 }
 
 .hello h3{
- font-family: Helvetica;
- text-align: right;
- padding-right: 10px;
- font-style:oblique;
- color:white
- ;
+  font-family: Helvetica;
+  text-align: right;
+  padding-right: 10px;
+  font-style:oblique;
+  color:white
+  ;
 }
 
 
