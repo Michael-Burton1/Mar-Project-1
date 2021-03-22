@@ -16,10 +16,10 @@ _This is the webpage for the professional portfolio landing page for Michael BUr
 
 ## Setup/Instalation Requirements
 you can view this webpage by checking out the url:
-<!-- add url -->
+https://michael-burton1.github.io/Mar-Project-1/
+OR...
 1. Open terminal
 2. input these commands into command line:
-
 * cd desktop
 * git clone https://github.com/Michael-Burton1/Mar-Project-1.git
 * code .
