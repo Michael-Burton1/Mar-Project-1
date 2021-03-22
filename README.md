@@ -21,7 +21,7 @@ you can view this webpage by checking out the url:
 2. input these commands into command line:
 
 * cd desktop
-<!-- * git clone add repo location -->
+* git clone https://github.com/Michael-Burton1/Mar-Project-1.git
 * code .
 
 ## Known Bugs
